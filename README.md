@@ -10,7 +10,7 @@ Our curriculum is crafted to provide an entry-level understanding of Bitcoin min
 - **:gear: What is Bitcoin Mining?** Discover the role of mining in maintaining and securing the Bitcoin blockchain, contributing to its decentralization.
 - **:hammer: Mining Hardware Basics** Get familiar with the types of hardware used in mining and their purposes.
 - **:computer: Mining Software Overview** Learn about the software that miners use to connect to the blockchain and their functionalities.
-- **:link: Understanding Mining Pools** Explanation of how mining pools work and their benefits, including how they support the network's decentralization.
+- **:factory: Mining Industry Overview**: Dive into the broader mining industry, understanding the various components that make up the ecosystem. How mining technology has evolved, the role of major mining operations, and their impact on network security and decentralization.
 - **:battery: Energy and Efficiency** Insight into the energy consumption of mining and how it impacts efficiency.
 
 This curriculum aims to demystify the technical aspects of Bitcoin mining and provide a solid foundational knowledge.
