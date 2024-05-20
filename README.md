@@ -42,7 +42,7 @@ Contributing your hashrate as a recurring donation is a powerful way to support 
 
 ### Hashrate Allocation Leaderboard
 
-We will add a "Hashrate Allocation Leaderboard" of people directing BTC rewards to support our mission of free and open-source education for all.
+We will add a "Hashrate Allocation Leaderboard" of miners directing BTC rewards to support our mission of free and open-source education for all.
 
 ### Donation Address QR Link: 
 ![Donate to My First Bitcoin](https://github.com/MyFirstBitcoin/Mining/blob/main/QR%20MFB%20MIning%20Address.png) 
