@@ -31,13 +31,19 @@ Support our mission to enhance Bitcoin mining education through various donation
 Donations are crucial for supporting and expanding our initiatives:
 
 - **:pencil: Curriculum Development**: Creating and refining educational materials that cover a range of topics from basic concepts to advanced mining techniques.
-- **:factory: Hosted Mining**: Setting up and maintaining mining operations that serve as practical learning tools for students and enhance the network's security.
+- **:factory: Physical Mining**: Setting up and maintaining mining operations that serve as practical learning tools for students and enhance the network's security.
 - **:satellite: Running Nodes**: Supporting the network by running full Bitcoin nodes, enhancing the robustness and decentralization of Bitcoin.
 - **:open_hands: Open Source and Decentralization**: Your contributions also support the development and maintenance of open source mining software and decentralized mining efforts, ensuring that the Bitcoin ecosystem remains accessible and secure for all.
+- **General MPB Operation Expenses**: Supporting the overall operation costs of My First Bitcoin initiatives.
 
 ### :repeat: Recurring Donations Through Mining
 
 Contributing your hashrate as a recurring donation is a powerful way to support our cause. By directing your mining rewards to our Bitcoin address, you provide a continuous stream of support that helps sustain our educational programs. This method allows you to contribute effortlessly as you mine, ensuring ongoing support and strengthening the decentralization of the Bitcoin network.
 
+### Hashrate Allocation Leaderboard
+
+We will add a "Hashrate Allocation Leaderboard" of people directing BTC rewards to support our mission of free and open-source education for all.
+
 ### Donation Address QR Link: 
 ![Donate to My First Bitcoin](https://github.com/MyFirstBitcoin/Mining/blob/main/QR%20MFB%20MIning%20Address.png) 
+
