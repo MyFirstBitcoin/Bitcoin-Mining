@@ -38,7 +38,7 @@ Donations are crucial for supporting and expanding our initiatives:
 
 ### :repeat: Recurring Donations Through Mining
 
-Contributing your hashrate as a recurring donation is a powerful way to support our cause. By directing your mining rewards to our Bitcoin address, you provide a continuous stream of support that helps sustain our educational programs. This method allows you to contribute effortlessly as you mine, ensuring ongoing support and strengthening the decentralization of the Bitcoin network.
+Contributing your hashrate as a recurring donation is a powerful way to support our cause. By directing your mining rewards to our Bitcoin mining address, you provide a continuous stream of support that helps sustain our educational programs. This method allows you to contribute effortlessly as you mine, ensuring ongoing support and strengthening the decentralization of the Bitcoin network.
 
 ### Hashrate Allocation Leaderboard
 
